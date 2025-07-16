@@ -14,7 +14,7 @@ You can view my profile here <a href="https://code-mo-dev.github.io/Parallax-Web
 
 As usual I used `HTML` to build the basic structure of the project. <br>
 I have also used `CSS` to add UI/UX design to the project but this site is not responsive to all screen sizes it only works on desktop screens.<br>
-I used JavaScript to make the site more interactive. An example of interactivity is the automatic writing of the paragraph in the about section. <br>
+I used `JavaScript` to make the site more interactive. An example of interactivity is the automatic writing of the paragraph in the about section. <br>
 
 ## features 
 
