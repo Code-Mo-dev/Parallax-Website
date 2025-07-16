@@ -1,4 +1,4 @@
-Hi 👋 I'm Mohamed 👨‍💻 <br>
+# Hi 👋 I'm Mohamed 👨‍💻 <br>
 # Parallax Website
 I created a website for a fake company using Parallax Website Design.
 
@@ -46,8 +46,8 @@ I used JavaScript to make the site more interactive. An example of interactivity
 |       └── terms-of-service.html
 |
 ├── css/
-│   ├── style.css
-│   └── all.min.css
+|   ├── style.css
+|   └── all.min.css
 |
 ├── Photos/
 |   ├── Agricultural_consulting_service..jpg
@@ -68,8 +68,8 @@ I used JavaScript to make the site more interactive. An example of interactivity
 |   └── tree.png
 |
 ├── assets/
-│   ├── WebIcon/ Font Awesome
-│   └── WebFonts/ Google Fonts
+|   ├── WebIcon/ Font Awesome
+|   └── WebFonts/ Google Fonts
 |
 └── README.md
 ```
